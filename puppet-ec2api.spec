@@ -5,7 +5,7 @@
 Name:                   puppet-ec2api
 Version:                XXX
 Release:                XXX
-Summary:                Puppet module for OpenStack Panko Service
+Summary:                Puppet module for OpenStack EC2API Service
 License:                Apache-2.0
 
 URL:                    https://launchpad.net/puppet-ec2api
@@ -22,7 +22,7 @@ Requires:               puppet-oslo
 Requires:               puppet >= 4.0.0
 
 %description
-Installs and configures OpenStack Panko Events Service.
+Installs and configures OpenStack EC2API Events Service.
 
 %prep
 %setup -q -n %{upstream_name}-%{upstream_version}
