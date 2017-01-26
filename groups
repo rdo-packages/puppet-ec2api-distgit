@@ -1,5 +1,5 @@
-# UUID          Group Name
-False 	Non-Interactive Users
-0861552fba16367bc69895e68acd6a76b336418a       	puppet/puppet-ec2api-distgit-core
-0f98eb61f0d853cf872dd889ab31366cd820d380        	puppet/puppet-ec2api-distgit-ptl
-global:Registered-Users		Registered Users
+# UUID                                  	Group Name
+#
+0861552fba16367bc69895e68acd6a76b336418a	puppet/puppet-ec2api-distgit-core
+0f98eb61f0d853cf872dd889ab31366cd820d380	puppet/puppet-ec2api-distgit-ptl
+global:Registered-Users                 	Registered Users
