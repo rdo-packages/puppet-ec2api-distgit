@@ -6,7 +6,7 @@ Name:                   puppet-ec2api
 Version:                XXX
 Release:                XXX
 Summary:                Puppet module for OpenStack EC2 API Service
-License:                Apache-2.0
+License:                ASL 2.0
 
 URL:                    https://launchpad.net/puppet-ec2api
 
