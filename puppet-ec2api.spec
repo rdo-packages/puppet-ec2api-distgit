@@ -3,7 +3,7 @@
 %define upstream_name openstack-ec2api
 
 Name:                   puppet-ec2api
-Version:                11.3.1
+Version:                11.4.0
 Release:                1%{?dist}
 Summary:                Puppet module for OpenStack EC2 API Service
 License:                ASL 2.0
@@ -49,6 +49,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/ec2api/
 
 
 %changelog
+* Fri Jan 19 2018 RDO <dev@lists.rdoproject.org> 11.4.0-1
+- Update to 11.4.0
+
 * Fri Dec 01 2017 RDO <dev@lists.rdoproject.org> 11.3.1-1
 - Update to 11.3.1
 
