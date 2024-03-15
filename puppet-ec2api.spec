@@ -68,3 +68,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/ec2api/
 %changelog
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-ec2api/commit/ced3a194082febab06f0205d7438f707e250a4ce
